@@ -1,0 +1,26 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #d0f6e5;
+	background-color: rgba(1, 1, 24, 0.842);
+}
+.table {
+	color: #d0f6e5;
+	border-style: inset;
+	border-color: #d0f6e5;
+}
+h1 {
+	color: #1fa869;
+}
+.number {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	color: rgba(1, 1, 24, 0.842);
+	background-color: #3535f7;
+	border-radius: 5%;
+}
+.result {
+	background-color: #011801;
+}
+.message {
+	height: 20px;
+	padding-left: 2%;
+}
