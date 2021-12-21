@@ -1,21 +1,21 @@
 Mini Juego
 
-El objetivo es adivinar el número que podrá estar entre 1 y 20.
+El objetivo es adivinar el nÃºmero que podrÃ¡ estar entre 1 y 20.
 Comienza con score de 10 puntos.
-Cada intento de acierto podrá ser ganador (el número ingresado coincide con el número secreto) ó fallido restnado un punto del score. En este último caso el juego te indica si es mayor o menor para realizar otro intento.
+Cada intento de acierto podrÃ¡ ser ganador (el nÃºmero ingresado coincide con el nÃºmero secreto) Ã³ fallido restnado un punto del score. En este Ãºltimo caso el juego te indica si es mayor o menor para realizar otro intento.
 Si el puntaje llega a 0 Game Over.
 Mediante "Nueva Partida" podemos volver a jugar.
-Además, el juego muestra el HighScore que obtuvimos entre todas las partidas jugadas.
+AdemÃ¡s, el juego muestra el HighScore que obtuvimos entre todas las partidas jugadas.
 
 
 Mini juego basado en Workshop de Nerdearla 2021.
 Utilizando HTML, CSS y JS.
-Versión propia:
+VersiÃ³n propia:
 Utilizo Boostrap.
-Utilizo form en lugar de table para elegir número y Probar. Evito que se actualice en JS.
-El valor se indica como require. Podría evitarse parte del código en JS (no ingresa valor) o mantenerlo como verificación back.
+Utilizo form en lugar de table para elegir nÃºmero y Probar. Evito que se actualice en JS.
+El valor se indica como required. Se mantiene el condicional en JS ante el caso de "no ingresa valor" igualmente.
 Cuando hay match y gana se modifica backgroundColor de una section, no del body.
-Cuando hay GameOverse modifica backgroundColor de una section y muestra el Número Secreto.
-Score inicial 10 puntos en lugar de los 20 de la versión original del juego.
+Cuando hay GameOverse modifica backgroundColor de una section y muestra el NÃºmero Secreto.
+Score inicial 10 puntos en lugar de los 20 de la versiÃ³n original del juego.
 
 
